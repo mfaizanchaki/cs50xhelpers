@@ -6,3 +6,6 @@
 
 # Tech Stack Used
  PHP, MySQLi, HTML, CSS, Jquery, Javascript
+
+# Link
+The website can be accessed at cs50xhelpers.org
